@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "title": "Getting Started with Next.js",
+      "excerpt": "Learn how to build modern web applications with Next.js, a powerful React framework.",
+      "content": "Next.js is a powerful React framework that makes it easy to build server-side rendered and statically generated web applications. In this post, we'll explore the basics of Next.js and how to get started with your first project.\n\nNext.js provides a great developer experience with features like automatic code splitting, optimized prefetching, and static site generation. It also offers a simple and intuitive file-based routing system, making it easy to organize your application's pages.\n\nTo get started with Next.js, you'll need to have Node.js installed on your computer. Once you have Node.js, you can create a new Next.js project using the following command:\n\nnpx create-next-app@latest my-next-app\n\nThis command will set up a new Next.js project with all the necessary dependencies and a basic project structure. From there, you can start building your application by creating new pages in the 'pages' directory and adding your React components.\n\nNext.js also provides excellent documentation and a vibrant community, making it easy to find help and resources as you build your application. Whether you're building a simple blog or a complex web application, Next.js provides the tools and flexibility you need to create fast, scalable, and SEO-friendly web applications.",
+      "image": "/placeholder.svg?height=400&width=800",
+      "date": "2023-06-15"
+    },
+    {
+      "id": 2,
+      "title": "Mastering Tailwind CSS",
+      "excerpt": "Discover the power of utility-first CSS with Tailwind and create beautiful designs quickly.",
+      "content": "Tailwind CSS is a utility-first CSS framework that allows you to rapidly build custom user interfaces. In this post, we'll dive into the core concepts of Tailwind and how to use it effectively in your projects.",
+      "image": "/placeholder.svg?height=400&width=800",
+      "date": "2023-06-20"
+    },
+    {
+      "id": 3,
+      "title": "The Future of Web Development",
+      "excerpt": "Explore upcoming trends and technologies that will shape the future of web development.",
+      "content": "The web development landscape is constantly evolving. In this post, we'll look at some of the emerging trends and technologies that are likely to play a significant role in shaping the future of web development.",
+      "image": "/placeholder.svg?height=400&width=800",
+      "date": "2023-06-25"
+    }
+  ]
+  
+  
